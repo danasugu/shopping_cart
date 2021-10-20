@@ -51,4 +51,4 @@ class Cart extends CI_Controller{
         redirect('cart/');
     }
     
-}
+} 

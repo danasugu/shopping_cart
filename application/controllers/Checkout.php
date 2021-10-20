@@ -124,4 +124,4 @@ class Checkout extends CI_Controller{
         $this->load->view($this->controller.'/order-success', $data);
     }
     
-}
+} 
