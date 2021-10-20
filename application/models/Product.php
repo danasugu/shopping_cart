@@ -10,7 +10,7 @@ class Product extends CI_Model{
         $this->ordItemsTable = 'order_items';
     }
     
-    /*
+    /* 
      * Fetch products data from the database
      * @param id returns a single record if specified, otherwise all records
      */
